@@ -7,11 +7,7 @@
 - :test_tube: Finishing up my research in Research institute and preparing to obtain employment
 - 🪐 Looking forward to becoming a technology guru!
 - :speech_balloon: Ask me about C++, Python, Machine Learning or literally anything!
-- :mailbox: You can reach me with the links below
-
-[![Gmail]([https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://pic50.photophoto.cn/20190305/1190120507913157_b.jpg))](mailto:aalston9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
-[![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
+- :mailbox: 634016585@qq.com
 
 ##### Languages I use
 
@@ -35,14 +31,16 @@
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
-##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
+##### Fun fact: I once solved the world's oldest question with a single line of Python
 <!-- wi*quL3fcV -->
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+```Python
+# Which came first: the chicken or the egg?
+sorted(eggs_chicken = ['🥚', '🐣', '🐥', '🐔'])
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
 
-⭐️ From [AdamAlston](https://github.com/adamalston)
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+
+⭐️ From [gxy-littleant](https://github.com/gxy-littleant)
